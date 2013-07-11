@@ -11,4 +11,7 @@ Rapid tutorial::
     $ make html
     # Add a project
     $ vi source/conf.py
+    # import the module
+    #sys.path.append(os.path.abspath('../../dummy/'))
+    #add content (will be shown on the commandline)
 

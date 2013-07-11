@@ -6,12 +6,16 @@
 Welcome to Sphinx example's documentation!
 ==========================================
 
+This documents dummy - a dummy module to deal with simple 2D points
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
-
-
+   
+   api.rst
+   developers.rst
+    
 
 Indices and tables
 ==================
