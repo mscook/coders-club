@@ -24,11 +24,12 @@ I (and lots and lots of others) use it as:
     * GitHub likes it... (well sort of they like Markdown .md more but it's a
       Ruby thing)
     * Can be marked up using tools such as sphinx (next section)
-
+    * ...
 
 More/Examples
 -------------
 
-http://docutils.sourceforge.net/rst.html
-http://docutils.sourceforge.net/docs/user/rst/quickref.html
-http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
+Please see:
+    * http://docutils.sourceforge.net/rst.html
+    * http://docutils.sourceforge.net/docs/user/rst/quickref.html
+    * http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
