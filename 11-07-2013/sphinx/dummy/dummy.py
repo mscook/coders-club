@@ -4,7 +4,7 @@ I'm a dummy module to show you how Sphinx works
 Created by Mitchell Stanton-Cook
 11/07/13
 
-I am beingpulled from the modules docstrings
+I am being pulled from the modules docstrings
 """
 
 import random

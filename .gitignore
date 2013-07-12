@@ -1,1 +1,2 @@
-phinx/pre-baked/build/*
+11-07-2013/sphinx/pre-baked/build/*
+*.pyc
